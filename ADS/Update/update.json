@@ -1,9 +1,21 @@
 {
-"code":1,
-"ver":"Congratulations!",
+"code":2,
+"ver":"New Version 1.0.1",
 "playstore":false;
 "force_update":false;
 "cb_later":false;
-"about_ver":"movie တော်တော်များများ ကြည့်မရတဲ့ ပြဿနာကို ပြုပြင်နေတာမို့ ဆာဗာ ခဏပိတ်ထားပါတယ်။",
-"link":"https://raw.githubusercontent.com/Unaing/app/master/update.html"
+"about_ver":"
+- အပေါ်အောက် ဆွဲမရတာ
+- မတော်တဆ refresh လုပ်မိတာ
+- ပြန်ထွက်ထွက်သွားတာ 
+- app logo 
+- tv live ui တို့ကို ပြုပြင်ထားပါတယ်။
+
+Zawgyi
+- အေပၚေအာက္ ဆြဲမရတာ
+- မေတာ္တဆ refresh လုပ္မိတာ
+- ျပန္ထြက္ထြက္သြားတာ 
+- app logo 
+- tv live ui တို႔ကို ျပဳျပင္ထားပါတယ္။",
+"link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
