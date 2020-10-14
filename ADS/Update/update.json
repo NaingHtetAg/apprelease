@@ -1,21 +1,14 @@
 {
 "code":2,
-"ver":"New Version 1.0.1",
+"ver":"Come back later!",
 "playstore":false;
 "force_update":true;
-"cb_later":false;
+"cb_later":true;
 "about_ver":"
-- အပေါ်အောက် ဆွဲမရတာ
-- မတော်တဆ refresh လုပ်မိတာ
-- ပြန်ထွက်ထွက်သွားတာ 
-- app logo 
-- tv live ui တို့ကို ပြုပြင်ထားပါတယ်။
+  အဆင့်မြှင့်တင်မှုများပြုလုပ်နေသောကြောင့် ခေတ္တခဏ နေမှ ပြန်လာခဲ့ပါ။
 
 Zawgyi
-- အေပၚေအာက္ ဆြဲမရတာ
-- မေတာ္တဆ refresh လုပ္မိတာ
-- ျပန္ထြက္ထြက္သြားတာ 
-- app logo 
-- tv live ui တို႔ကို ျပဳျပင္ထားပါတယ္။",
+အဆင့္ျမႇင့္တင္မႈမ်ားျပဳလုပ္ေနေသာေၾကာင့္ ေခတၱခဏ ေနမွ ျပန္လာခဲ့ပါ။
+  ",
 "link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
