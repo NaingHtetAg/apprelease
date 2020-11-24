@@ -3,7 +3,7 @@
 "ver":"Come Back Later",
 "playstore":true;
 "force_update":false;
-"cb_later":true;
+"cb_later":false;
 "about_ver":"ကောင်မလေး ရတဲ့တစ်နေ့ ပြန်လာခဲ့ပါ။",
 "link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
