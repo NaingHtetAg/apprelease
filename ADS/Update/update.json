@@ -1,18 +1,18 @@
 {
-"code":3,
-"ver":"New version 1.0.2",
+"code":4,
+"ver":"New version 2",
 "playstore":false;
-"force_update":false;
+"force_update":true;
 "cb_later":false;
 "about_ver":"
-- wifi နဲ့ အသုံးပြုလို့မရတာ
-- Loading မှာ ရပ်နေတာ တို့ကို ပြင်ထားပါတယ်။ အသုံးပြုရတာ အဆင်မပြေပါက Android Version လေးကို Movie Plus facebook page မှာပြောပြပေးပါဗျာ။
-ကျေးဇူးတင်ပါတယ်။
+- New User Interface
+- Bugs Fixed
+- Added many features
+- etc
 
-Zawgyi
-- wifi နဲ႕ အသုံးျပဳလို႔မရတာ
-- Loading မွာ ရပ္ေနတာ တို႔ကို ျပင္ထားပါတယ္။ အသုံးျပဳရတာ အဆင္မေျပပါက Android Version ေလးကို Movie Plus facebook page မွာေျပာျပေပးပါဗ်ာ။
-ေက်းဇူးတင္ပါတယ္။
+Play Store အဆင်ပြေရင် Play Store ကပဲဒေါင်းလုဒ်လုပ်၍အသုံးပြုပေးပါခင်ဗျာ
+
+Play Store အဆင္ေျပရင္ Play Store ကပဲေဒါင္းလုဒ္လုပ္၍အသုံးျပဳေပးပါခင္ဗ်ာ
   ",
 "link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
