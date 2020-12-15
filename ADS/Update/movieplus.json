@@ -1,13 +1,17 @@
 {
 "code":4,
-"ver":"New version 1.0.2",
+"ver":"Warning!",
 "playstore":false;
 "force_update":false;
-"cb_later":false;
+"cb_later":true;
 "about_ver":"
-- wifi နဲ့ အသုံးပြုလို့မရတာ
-- Loading မှာ ရပ်နေတာ တို့ကို ပြင်ထားပါတယ်။ အသုံးပြုရတာ အဆင်မပြေပါက Android Version လေးကို Movie Plus facebook page မှာပြောပြပေးပါဗျာ။
-ကျေးဇူးတင်ပါတယ်။
+ဒီ Movie Plus ဆော့ဝဲလ် က Google ကနေဘန်းထားသောကြောင့် ဆက်လက်အသုံးပြု၍မရတော့ပါ။ဒါကြောင့်မို့ Movie Pro သို့ အဆင့်မြှင့်တင်ပေးပါ။
+Movie Plus ဖေ့ဘုတ် စာမျက်နှာကိုဆက်သွယ်ပေးပါ။
+FB Page : m.facebook.com/bmoviesapp
+
+ဒီ Movie Plus ေဆာ့ဝဲလ္ က Google ကေနဘန္းထားေသာေၾကာင့္ ဆက္လက္အသုံးျပဳ၍မရေတာ့ပါ။ဒါေၾကာင့္မို႔ Movie Pro သို႔ အဆင့္ျမႇင့္တင္ေပးပါ။
+Movie Plus ေဖ့ဘုတ္ စာမ်က္ႏွာကိုဆက္သြယ္ေပးပါ။
+FB Page : m.facebook.com/bmoviesapp
   ",
 "link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk",
 
